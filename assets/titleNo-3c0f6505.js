@@ -1,0 +1,1 @@
+import{W as t}from"./index-e978c30f.js";const o=t(["posSystemTitleNo"]),i=()=>{o.remove("posSystemTitleNo")},l=()=>o.get("posSystemTitleNo"),N=e=>{o.set("posSystemTitleNo",e)};export{i as c,l as g,N as s};
